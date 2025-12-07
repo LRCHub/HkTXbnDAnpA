@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "花筵",
+  "base_artist": "フリージアン",
+  "createdAt": "2025-12-07T14:43:19.732166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花筵",
+      "artist": "SOX",
+      "has_synced": false,
+      "path": "select/01_花筵_SOX.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花筵",
+      "artist": "フリージアン",
+      "has_synced": false,
+      "path": "select/pl_01_花筵_フリージアン.txt"
+    }
+  ]
+}
